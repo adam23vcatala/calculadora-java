@@ -4,7 +4,6 @@ Calculadora creada con métodos de Java
 - Apache NetBeans
 - Java
 - GitHub
-- Git
 ---
 Víctor Català Mendoza
 
